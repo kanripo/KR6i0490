@@ -1,22 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:49.829464
+#+DATE: 2015-08-30 20:20:51.695017
 #+TITLE: 佛說木槵子經
 #+PROPERTY: CBETA_ID T17n0786
 #+PROPERTY: ID KR6i0490
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 786
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0490_T_000-0726a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0490_T_001-0726a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.786¶
-
- 《佛說木槵子經》¶
+No. 786¶
+《佛說木槵子子經》¶
 ¶
-失譯人今附東晉錄¶
+失譯人今附東晉錄人今附東晉錄¶
 
 聞如是：
 
